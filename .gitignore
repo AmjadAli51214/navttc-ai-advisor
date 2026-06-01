@@ -1,0 +1,10 @@
+# Secrets and Environment Variables
+.env
+
+# Personal/Sensitive Data
+raw_data.json
+
+# Dependencies and Build folders
+node_modules/
+.wrangler/
+__pycache__/
